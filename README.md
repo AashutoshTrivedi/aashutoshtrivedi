@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Why don't you have a look at my portfolio [here](https://aashutoshtrivedi.github.io)
+Why don't you have a look at my portfolio <a href="https://aashutoshtrivedi.github.io" target="_blank">here</a>
+
 
 <!--
 **AashutoshTrivedi/aashutoshtrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
